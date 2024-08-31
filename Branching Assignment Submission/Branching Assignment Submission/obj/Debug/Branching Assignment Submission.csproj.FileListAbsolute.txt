@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\obj\Debug\Branching Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\obj\Debug\Branching Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\bin\Debug\Branching Assignment Submission.exe.config
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\bin\Debug\Branching Assignment Submission.exe
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\bin\Debug\Branching Assignment Submission.pdb
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\obj\Debug\Branching Assignment Submission.exe
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\Branching Assignment Submission\Branching Assignment Submission\obj\Debug\Branching Assignment Submission.pdb
