@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\bin\Debug\fewArraysTasks.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\bin\Debug\fewArraysTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\bin\Debug\fewArraysTasks.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\obj\Debug\fewArraysTasks.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\obj\Debug\fewArraysTasks.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\obj\Debug\fewArraysTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\fewArraysTasks\fewArraysTasks\obj\Debug\fewArraysTasks.pdb

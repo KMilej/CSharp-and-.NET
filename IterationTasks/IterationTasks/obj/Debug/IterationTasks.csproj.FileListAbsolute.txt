@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\bin\Debug\IterationTasks.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\bin\Debug\IterationTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\bin\Debug\IterationTasks.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\obj\Debug\IterationTasks.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\obj\Debug\IterationTasks.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\obj\Debug\IterationTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\IterationTasks\IterationTasks\obj\Debug\IterationTasks.pdb
