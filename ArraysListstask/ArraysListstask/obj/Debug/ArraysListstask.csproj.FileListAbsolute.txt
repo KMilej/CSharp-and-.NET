@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\obj\Debug\ArraysListstask.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\obj\Debug\ArraysListstask.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\bin\Debug\ArraysListstask.exe.config
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\bin\Debug\ArraysListstask.exe
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\bin\Debug\ArraysListstask.pdb
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\obj\Debug\ArraysListstask.exe
+C:\Users\Kamil\Desktop\Basic_C#_Programs\VisualStudio\ArraysListstask\ArraysListstask\obj\Debug\ArraysListstask.pdb
