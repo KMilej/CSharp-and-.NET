@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D80C2607-85F8-47E8-A94C-6CB337D48626}</ProjectGuid>
+    <ProjectGuid>{66B115D2-84D3-479E-A2E6-06E9B8DC72BC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Branching_Assignment_Submission</RootNamespace>
-    <AssemblyName>Branching Assignment Submission</AssemblyName>
+    <RootNamespace>fewArraysTasks</RootNamespace>
+    <AssemblyName>fewArraysTasks</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Card.cs" />
+    <Compile Include="Deck.cs" />
+    <Compile Include="MathOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

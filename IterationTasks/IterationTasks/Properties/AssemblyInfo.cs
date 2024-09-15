@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Branching Assignment Submission")]
+[assembly: AssemblyTitle("IterationTasks")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Branching Assignment Submission")]
+[assembly: AssemblyProduct("IterationTasks")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d80c2607-85f8-47e8-a94c-6cb337d48626")]
+[assembly: Guid("2cbf6b8a-3ca5-4561-ab62-aacf9a4b7b0d")]
 
 // Version information for an assembly consists of the following four values:
 //
