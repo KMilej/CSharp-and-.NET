@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\bin\Debug\MethodObjectTask1.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\bin\Debug\MethodObjectTask1.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\bin\Debug\MethodObjectTask1.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\obj\Debug\MethodObjectTask1.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\obj\Debug\MethodObjectTask1.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\obj\Debug\MethodObjectTask1.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\MethodObjectTask1\MethodObjectTask1\obj\Debug\MethodObjectTask1.pdb
