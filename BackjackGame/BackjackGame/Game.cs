@@ -9,9 +9,12 @@ namespace BackjackGame
 {
     public abstract class Game
     {
-        public List<Player> Players { get; set; }
+        private List<Player> _players = new List<Player>();
+        private Dictionary<Player, int> _bets = new Dictionary<Player, int>();
+
+        public List<Player> Players { get { return _players; } set { _players = value; } }
         public string Name { get; set; }
-        public Dictionary<Player, int> Bets { get; set; }
+        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } } 
    //     public string Dealer { get; set; }
 
 
@@ -21,7 +24,7 @@ namespace BackjackGame
         {
             foreach (Player player in Players)
             {
-                Console.WriteLine(Player.Name);
+                Console.WriteLine(player.Name);
             }
         }
 

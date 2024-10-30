@@ -1,4 +1,5 @@
-﻿using BackJackGame;
+﻿using BackjackGame;
+using BackJackGame;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,10 +27,12 @@ namespace BlackJackGame
             {
                 Player player = new Player(playerName, bank);
 
+                
                 Game game = new TwentyOneGame();
                 game += player;
-                player.isActivelyPlaying = true;
-                while (player.isActivelyPlaying && player.Balance > 0)
+                player.IsActivelyPlaying = true;
+
+                while (player.IsActivelyPlaying && player.Balance > 0)
                 {
                     game.Play();
                 }
