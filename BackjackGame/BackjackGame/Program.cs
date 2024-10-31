@@ -12,7 +12,7 @@ namespace BlackJackGame
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main() // string[] args
         {
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by tellling me your name");
             String playerName = Console.ReadLine();
