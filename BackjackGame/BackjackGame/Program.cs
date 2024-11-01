@@ -17,7 +17,7 @@ namespace BlackJackGame
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by tellling me your name");
             String playerName = Console.ReadLine();
 
-            Console.WriteLine("How many money you brind with you?");
+            Console.WriteLine("How many money you bring with you?");
             int bank = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("hello, {0} Do you want play 21 game?", playerName);

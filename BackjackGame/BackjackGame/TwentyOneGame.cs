@@ -24,14 +24,14 @@ namespace BackjackGame
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
             Dealer.Deck.Shuffle();
-            Console.WriteLine("place your bet!");
-
-
+            
             foreach (Player player in Players)
             {
+
+                Console.WriteLine("place your bet!");
                 int bet = Convert.ToInt32(Console.ReadLine());
                 bool successfullybet = player.Bet(bet);
-                if ( !successfullybet)
+                if (!successfullybet)
                 {
                     return;
                 }
