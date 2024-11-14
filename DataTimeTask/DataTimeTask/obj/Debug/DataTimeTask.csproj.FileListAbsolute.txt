@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\bin\Debug\DataTimeTask.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\bin\Debug\DataTimeTask.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\bin\Debug\DataTimeTask.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\obj\Debug\DataTimeTask.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\obj\Debug\DataTimeTask.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\obj\Debug\DataTimeTask.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\DataTimeTask\DataTimeTask\obj\Debug\DataTimeTask.pdb
