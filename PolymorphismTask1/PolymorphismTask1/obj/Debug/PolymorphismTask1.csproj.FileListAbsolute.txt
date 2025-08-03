@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\obj\Debug\PolymorphismTask1.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\obj\Debug\PolymorphismTask1.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\bin\Debug\PolymorphismTask1.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\bin\Debug\PolymorphismTask1.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\bin\Debug\PolymorphismTask1.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\obj\Debug\PolymorphismTask1.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\PolymorphismTask1\PolymorphismTask1\obj\Debug\PolymorphismTask1.pdb

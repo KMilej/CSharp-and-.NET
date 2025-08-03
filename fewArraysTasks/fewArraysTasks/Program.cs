@@ -13,7 +13,7 @@ namespace fewArraysTasks
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, this is test tasks");
-            Console.WriteLine("Choose your task you want to see from ");
+            Console.WriteLine("Choose your task you want to see from 1 to 6  ");
             int userChoice = int.Parse(Console.ReadLine());
 
             switch (userChoice)
@@ -35,6 +35,9 @@ namespace fewArraysTasks
                     break;
                 case 6:
                     Task6();
+                    break;
+                case 7:
+                    Task7();
                     break;
             }
 
@@ -140,8 +143,8 @@ namespace fewArraysTasks
             void Task5()
             {
                 Deck deck = new Deck();
-                //deck = Shuffle(deck);
-                deck = Shuffle(deck, 3);
+                deck.Shuffle(3);
+
 
                 foreach (Card card in deck.Cards)
                 {
@@ -194,34 +197,39 @@ namespace fewArraysTasks
 
 
             }
+            void Task7()
+            {
+                // Step 3: Instantiate the class
+                NumberOperations numberOperations = new NumberOperations();
 
-            Console.ReadLine();
+                // Ask the user to input a number
+                Console.Write("Please enter a number: ");
+                int userInput = Convert.ToInt32(Console.ReadLine());
+
+                // Call the method to divide the user's number by 2
+                numberOperations.DivideByTwo(userInput);
+
+                // Step 4: Call the MultiplyByTwo method using output parameters
+                numberOperations.MultiplyByTwo(userInput, out int multipliedResult);
+                Console.WriteLine("The number multiplied by 2 is: " + multipliedResult);
+
+                // Step 5: Demonstrate method overloading
+                numberOperations.MultiplyByTwo(7.5, out double doubleMultipliedResult);
+                Console.WriteLine("The double number multiplied by 2 is: " + doubleMultipliedResult);
+
+                // Step 6: Use static methods from the static class
+                MathOperation.DivideByTwo(userInput, out int dividedResultStatic);
+                Console.WriteLine("Using static class: The number divided by 2 is: " + dividedResultStatic);
+
+                MathOperation.DivideByTwo(15.8, out double dividedDoubleResultStatic);
+                Console.WriteLine("Using static class: The double number divided by 2 is: " + dividedDoubleResultStatic);
+
+                Console.ReadLine(); // Keep the console open until the user presses Enter
+            }
+
+                Console.ReadLine();
 
         }
-
-        public static Deck Shuffle(Deck deck, int times = 1)
-        {
-            List<Card> TempList = new List<Card>();
-            Random random = new Random();
-
-            while (deck.Cards.Count > 0)
-                {
-                    int randomindex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomindex]);
-                    deck.Cards.RemoveAt(randomindex);
-                }
-                deck.Cards = TempList;
-                return deck;
-        }
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
-
     }
 }
 

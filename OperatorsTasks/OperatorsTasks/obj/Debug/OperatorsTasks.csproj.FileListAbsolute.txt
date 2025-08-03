@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\bin\Debug\OperatorsTasks.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\bin\Debug\OperatorsTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\bin\Debug\OperatorsTasks.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\obj\Debug\OperatorsTasks.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\obj\Debug\OperatorsTasks.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\obj\Debug\OperatorsTasks.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\OperatorsTasks\OperatorsTasks\obj\Debug\OperatorsTasks.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\bin\Debug\Method Class Task.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\bin\Debug\Method Class Task.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\bin\Debug\Method Class Task.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\obj\Debug\Method Class Task.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\obj\Debug\Method Class Task.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\obj\Debug\Method Class Task.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\Method Class Task\Method Class Task\obj\Debug\Method Class Task.pdb

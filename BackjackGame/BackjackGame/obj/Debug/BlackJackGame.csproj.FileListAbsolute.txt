@@ -1,0 +1,7 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\obj\Debug\BlackJackGame.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\obj\Debug\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\bin\Debug\BackjackGame.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\bin\Debug\BackjackGame.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\bin\Debug\BackjackGame.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\obj\Debug\BackjackGame.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\BackjackGame\BackjackGame\obj\Debug\BackjackGame.pdb
