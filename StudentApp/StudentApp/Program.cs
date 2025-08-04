@@ -45,13 +45,13 @@ namespace StudentApp
     }
     public class Student
     {
-        public int StudentId { get; set; }  // Klucz główny (PK)
+        public int StudentId { get; set; }  //PK
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
     }
 
-    // 🔹 3. KONTEKST BAZY DANYCH
+    
     public class StudentContext : DbContext
     {
         public DbSet<Student> Students { get; set; }
